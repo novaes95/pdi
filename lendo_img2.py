@@ -109,3 +109,4 @@ stack3 = np.dstack([b1,b2,b4])
 #outro metodo usando with que roda o processo rasterio.open depois fecha para n deixar rastro na memoria
 
 imshow(stack3,bands=(1,2,0))
+#add linha so pra teste
